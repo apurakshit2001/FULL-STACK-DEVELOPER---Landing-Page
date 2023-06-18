@@ -67,7 +67,7 @@ body {
 }
 
 .card {
-    max-width: 320px;
+    max-width: 340px;
     height: 300px;
     border-radius: 10px;
     box-shadow: 3px 5px 5px rgba(1, 1, 1, 0.2);

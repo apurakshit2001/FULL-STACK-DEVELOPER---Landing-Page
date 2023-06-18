@@ -86,10 +86,11 @@ body {
 }
 
 .card .image-container img {
-    width: 240px;
-    height: 150px;
+    width: 320px;
+    height: 190px;
     object-fit: cover;
     object-position: center;
+    border-radius: 10px;
 }
 
 .card:hover {
@@ -182,10 +183,11 @@ footer {
 
     .about {
         font-size: 10px;
-      }
-      .contact {
+    }
+
+    .contact {
         font-size: 15px;
-      }
+    }
 
     h1 {
         font-size: 32px;
